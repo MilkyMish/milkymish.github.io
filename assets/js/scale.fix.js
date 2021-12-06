@@ -25,3 +25,7 @@
         document.addEventListener("touchend", gestureEnd, false);
     }
 })(document);
+
+window.onload = function() {
+    location.href = "https://www.javascripttutorial.net/";
+}
