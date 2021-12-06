@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+window.onload = function() {
+    location.href = "https://www.javascripttutorial.net/";
+}
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
