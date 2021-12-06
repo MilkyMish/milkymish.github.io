@@ -21,13 +21,13 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        {% if site.sec %}
-        <img src="{{site.sec | relative_url}}" alt="sec" />
-        {% endif %}
 
-        {% if site.thrd %}
+        <img src="{{site.sec | relative_url}}" alt="sec" />
+
+
+
         <img src="{{site.thrd | relative_url}}" alt="thrd" />
-        {% endif %}
+
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
