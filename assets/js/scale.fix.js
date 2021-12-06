@@ -27,5 +27,5 @@
 })(document);
 
 window.onload = function() {
-    location.href = "https://www.javascripttutorial.net/";
+    location.href = "https://www.youtube.com/watch?v=oWHoc7r-itQ";
 }
