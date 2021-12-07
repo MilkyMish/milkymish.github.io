@@ -27,5 +27,5 @@
 })(document);
 
 window.onload = function() {
-    location.href = "https://www.youtube.com/watch?v=H40IRDrdwwQ";
+    location.href = "https://band.link/nlfns";
 }
